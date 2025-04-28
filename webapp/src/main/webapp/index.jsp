@@ -10,7 +10,7 @@
 
 <h1>Chandu Anna</h1>
 
-<p>Goa.</p>
+<p>Temple.</p>
 
 </body>
 </html>
