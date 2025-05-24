@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Form Example</title>
+</head>
 <body>
 
-<h1>Prince Harsha</h1>
+<form>
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username"><br><br>
 
-<h1>Kalyan </h1>
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password"><br><br>
 
-<h1>Sunil</h1>
-
-<h1>Chandu Anna</h1>
-
-<p>Temple.</p>
+  <input type="submit" value="Submit">
+</form>
 
 </body>
 </html>
