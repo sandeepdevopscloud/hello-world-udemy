@@ -19,3 +19,5 @@
     <img src="image.jpg" alt="My Image" width="200">
 </body>
 </html>
+
+
