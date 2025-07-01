@@ -5,7 +5,7 @@
 <h1>HLC Client</h1>
 <h2>HELLO SANDEEP KUMAR HOW YOU BEEN DOING</h2>
 
-<p>HCL CLIENT.</p>
+<p>THANKYOU FOR REACHING OUT.</p>
 
 </body>
 </html>
