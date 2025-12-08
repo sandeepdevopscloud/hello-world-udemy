@@ -8,8 +8,13 @@
 
 <body>
     <div class="main">
-        <h1>SANDEEP KUMAR DEVOPS ENGINEER IN TCS VIZAG</h1>
-        <h3>WELLCOME SANDEEP KUMAR DODDI TO TCS</h3>
+        <h1>SANDEEP KUMAR DEVOPS ENGINEER IN CAPGEMINI VIZAG</h1>
+        <h3>WELLCOME SANDEEP KUMAR DODDI TO CAPGEMINI</h3>
+
+    <div class="main">
+        <h1>SANDEEP KUMAR DEVOPS ENGINEER IN CAPGEMINI VIZAG</h1>
+        <h3>WELLCOME SANDEEP KUMAR DODDI TO CAPGEMINI</h3>
+
 
         <form action="">
             <label for="first">
